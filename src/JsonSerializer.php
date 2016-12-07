@@ -1,6 +1,6 @@
 <?php
 
-namespace Pmall\Formatters;
+namespace Pmall\Formatter;
 
 use League\Fractal\Serializer\ArraySerializer;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Pmall\Formatters;
+namespace Pmall\Formatter;
 
 use Illuminate\Pagination\AbstractPaginator;
 
@@ -15,7 +15,7 @@ use JsonSerializable;
 use Traversable;
 use InvalidArgumentException;
 
-class JsonFormatter implements JsonSerializable
+class Formatter implements JsonSerializable
 {
     private $formatted;
 
