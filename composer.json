@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pmall\Formatter\\": "src/"
+            "Pmall\\Formatter\\": "src/"
         }
     }
 }
