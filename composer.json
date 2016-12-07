@@ -7,5 +7,7 @@
             "email": "pierre.mallinjoud@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "league/fractal": "^0.14.0"
+    }
 }
