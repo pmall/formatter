@@ -1,0 +1,11 @@
+{
+    "name": "pmall/formatter",
+    "description": "Easy formatting with league/fractal",
+    "authors": [
+        {
+            "name": "Pierre Mallinjoud",
+            "email": "pierre.mallinjoud@gmail.com"
+        }
+    ],
+    "require": {}
+}
